@@ -1,57 +1,32 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Murad Teymurov",
+  "description": "Backend Developer",
+  "image_url": "https://media.licdn.com/dms/image/C4E03AQHTYIHIcj9tMw/profile-displayphoto-shrink_800_800/0/1659451160515?e=1677715200&v=beta&t=ADJN8URYKzrdAohhbHZzst6vzOd2xoddjzsU7C4Nd54",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/murad-teymurov-5950a8219/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/murad-teymurov",
       "icon": "github"
     },
     {
-      "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
-      "icon": "twitter"
-    },
-    {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3G4193Q",
-      "icon": "mug"
-    },
-    {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://www.instagram.com/muradtyv/",
       "icon": "instagram"
     },
     {
       "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
+      "url": "https://medium.com/@muradteymurov2000",
       "icon": "medium"
     },
     {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
-      "icon": "link"
-    },
-    {
       "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
+      "url": "https://www.hackerrank.com/muradteymurov201",
       "icon": "click"
-    },
-    {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
     }
   ]
 }
